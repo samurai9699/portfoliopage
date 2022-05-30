@@ -13,8 +13,8 @@ body{
     min-height: 100vh;
 }
 .header img{
-    width: 130px;
-    height: 130px;
+    width: 170px;
+    height: 150px;
     border-radius: 50%;
     object-fit: cover;
     object-position:0 -8px;
